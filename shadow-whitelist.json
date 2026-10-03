@@ -4,12 +4,8 @@
       "id": "C814-0284-E815-4044",
       "note": "folzy",
       "admin": true
-    },
-    {
-      "id": "5264-5F9B-C70F-4AD8",
-      "note": "кинг"
     }
   ],
-  "enabled": true,
+  "enabled": false,
   "request_url": "https://shadow-access-bot.denisvasilev817.workers.dev/request"
 }
