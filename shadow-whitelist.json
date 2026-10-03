@@ -2,7 +2,8 @@
   "devices": [
     {
       "id": "C814-0284-E815-4044",
-      "note": "folzy"
+      "note": "folzy",
+      "admin": true
     }
   ],
   "enabled": true,
