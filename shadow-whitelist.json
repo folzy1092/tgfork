@@ -7,9 +7,9 @@
     },
     {
       "id": "5264-5F9B-C70F-4AD8",
-      "note": ""
+      "note": "test"
     }
   ],
-  "enabled": false,
+  "enabled": true,
   "request_url": "https://shadow-access-bot.denisvasilev817.workers.dev/request"
 }
