@@ -1,10 +1,10 @@
 {
-  "devices" : [
+  "devices": [
     {
-      "id" : "C814-0284-E815-4044",
-      "note" : "folzy"
+      "id": "C814-0284-E815-4044",
+      "note": "folzy"
     }
   ],
-  "enabled" : false,
-  "request_url" : "https://shadow-access-bot.denisvasilev817.workers.dev/request"
+  "enabled": true,
+  "request_url": "https://shadow-access-bot.denisvasilev817.workers.dev/request"
 }
