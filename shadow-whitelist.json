@@ -10,6 +10,6 @@
       "note": ""
     }
   ],
-  "enabled": true,
+  "enabled": false,
   "request_url": "https://shadow-access-bot.denisvasilev817.workers.dev/request"
 }
