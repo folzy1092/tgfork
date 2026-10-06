@@ -19,5 +19,9 @@
     }
   ],
   "enabled": true,
-  "request_url": "https://shadow-access-bot.denisvasilev817.workers.dev/request"
+  "request_url": "https://shadow-access-bot.denisvasilev817.workers.dev/request",
+  "easter_egg_channels": [
+    "kartinki5222",
+    "ayugram_easter"
+  ]
 }
