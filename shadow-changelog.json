@@ -1,6 +1,19 @@
 {
   "entries": [
     {
+      "build": 34840,
+      "date": "2026-10-17",
+      "version": "12.9.2-1.13.1",
+      "ipa_url": "https://github.com/folzy1092/tgfork/releases/download/build-34840/Shadow.ipa",
+      "items": [
+        "Версия Shadow 1.13.1",
+        "Исправлено: мелкие улучшения и исправления"
+      ],
+      "fixed": [
+        "мелкие улучшения и исправления"
+      ]
+    },
+    {
       "build": 34836,
       "date": "2026-10-14",
       "version": "12.9.2-1.13.0",
