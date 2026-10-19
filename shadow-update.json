@@ -1,18 +1,18 @@
 {
   "enabled": true,
-  "build": 34840,
-  "version": "12.9.2-1.13.1",
-  "title": "Shadow 1.13.1: мелкие исправления",
-  "notes": "• Исправлено: мелкие улучшения и исправления",
-  "url": "https://github.com/folzy1092/tgfork/releases/tag/build-34840",
+  "build": 34845,
+  "version": "12.9.2-1.13.2",
+  "title": "Shadow 1.13.2: мелкие исправления",
+  "notes": "• Исправлено: в «Итогах чата» вместо «5 лет» теперь «Всё время» — с первого сообщения переписки\n• Исправлено: мелкие улучшения и исправления",
+  "url": "https://github.com/folzy1092/tgfork/releases/tag/build-34845",
   "minimum_build": 0,
-  "ipa_url": "https://github.com/folzy1092/tgfork/releases/download/build-34840/Shadow.ipa",
+  "ipa_url": "https://github.com/folzy1092/tgfork/releases/download/build-34845/Shadow.ipa",
   "stable": {
-    "build": 34840,
-    "version": "12.9.2-1.13.1",
-    "title": "Shadow 1.13.1: мелкие исправления",
-    "notes": "• Исправлено: мелкие улучшения и исправления",
-    "url": "https://github.com/folzy1092/tgfork/releases/tag/build-34840",
-    "ipa_url": "https://github.com/folzy1092/tgfork/releases/download/build-34840/Shadow.ipa"
+    "build": 34845,
+    "version": "12.9.2-1.13.2",
+    "title": "Shadow 1.13.2: мелкие исправления",
+    "notes": "• Исправлено: в «Итогах чата» вместо «5 лет» теперь «Всё время» — с первого сообщения переписки\n• Исправлено: мелкие улучшения и исправления",
+    "url": "https://github.com/folzy1092/tgfork/releases/tag/build-34845",
+    "ipa_url": "https://github.com/folzy1092/tgfork/releases/download/build-34845/Shadow.ipa"
   }
 }
