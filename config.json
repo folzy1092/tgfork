@@ -24,6 +24,12 @@
       "user_id": 1068369028,
       "emoji_id": 5229027828527309057,
       "text_template": "Основатель Shadow - **{chat_name}**"
+    },
+    {
+      "id": "mateychannel_badge",
+      "chat_id": 1994266047,
+      "emoji_id": 5474202068069687407,
+      "text_template": "БОССовский канал"
     }
     ]
 }
