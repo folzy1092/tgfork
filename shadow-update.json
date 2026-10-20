@@ -1,18 +1,18 @@
 {
   "enabled": true,
-  "build": 34858,
-  "version": "12.9.2-1.13.6",
-  "title": "Shadow 1.13.6: мелкие исправления",
-  "notes": "• Исправлено: значок «@» в чате больше не зависает после Призрака — его убирают «Прочитать», «Прочитать все» у папки и «Прочитать все чаты»\n• Исправлено: мелкие улучшения и исправления",
-  "url": "https://github.com/folzy1092/tgfork/releases/tag/build-34858",
+  "build": 35698,
+  "version": "13.0.0-1.13.6",
+  "title": "Shadow 1.13.6: Telegram 13.0.0",
+  "notes": "• Shadow теперь на Telegram 13.0.0: встроенный TON-кошелёк, приветственные сообщения для бизнеса, подарки с подписью и скрытым именем, замена медиа в отправленном сообщении\n• Панель бизнес-бота и закреп Telegram теперь показывает вместе; вид из «Бизнес-бот и закреп» в Shadow по-прежнему работает (Кастомизация → Чаты и звонки)\n• Исправлено: второй код и код под принуждением работают с новым код-паролем Telegram 13 и не считаются неудачной попыткой",
+  "url": "https://github.com/folzy1092/tgfork/releases/tag/build-35698",
   "minimum_build": 0,
-  "ipa_url": "https://github.com/folzy1092/tgfork/releases/download/build-34858/Shadow.ipa",
+  "ipa_url": "https://github.com/folzy1092/tgfork/releases/download/build-35698/Shadow.ipa",
   "stable": {
-    "build": 34858,
-    "version": "12.9.2-1.13.6",
-    "title": "Shadow 1.13.6: мелкие исправления",
-    "notes": "• Исправлено: значок «@» в чате больше не зависает после Призрака — его убирают «Прочитать», «Прочитать все» у папки и «Прочитать все чаты»\n• Исправлено: мелкие улучшения и исправления",
-    "url": "https://github.com/folzy1092/tgfork/releases/tag/build-34858",
-    "ipa_url": "https://github.com/folzy1092/tgfork/releases/download/build-34858/Shadow.ipa"
+    "build": 35698,
+    "version": "13.0.0-1.13.6",
+    "title": "Shadow 1.13.6: Telegram 13.0.0",
+    "notes": "• Shadow теперь на Telegram 13.0.0: встроенный TON-кошелёк, приветственные сообщения для бизнеса, подарки с подписью и скрытым именем, замена медиа в отправленном сообщении\n• Панель бизнес-бота и закреп Telegram теперь показывает вместе; вид из «Бизнес-бот и закреп» в Shadow по-прежнему работает (Кастомизация → Чаты и звонки)\n• Исправлено: второй код и код под принуждением работают с новым код-паролем Telegram 13 и не считаются неудачной попыткой",
+    "url": "https://github.com/folzy1092/tgfork/releases/tag/build-35698",
+    "ipa_url": "https://github.com/folzy1092/tgfork/releases/download/build-35698/Shadow.ipa"
   }
 }
