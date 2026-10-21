@@ -1,18 +1,18 @@
 {
   "enabled": true,
-  "build": 35706,
-  "version": "13.0.0-1.13.10",
-  "title": "Shadow 1.13.10: кружки больше не замораживают приложение",
-  "notes": "• Исправлено: отмена или отправка кружка больше не замораживает приложение",
-  "url": "https://github.com/folzy1092/tgfork/releases/tag/build-35706",
+  "build": 35708,
+  "version": "13.0.0-1.13.11",
+  "title": "Shadow 1.13.11: время прочтения голосовых",
+  "notes": "• Исправлено: в личных чатах в меню своего голосового или кружка видно, когда его прочитали, даже если ещё не прослушали",
+  "url": "https://github.com/folzy1092/tgfork/releases/tag/build-35708",
   "minimum_build": 0,
-  "ipa_url": "https://github.com/folzy1092/tgfork/releases/download/build-35706/Shadow.ipa",
+  "ipa_url": "https://github.com/folzy1092/tgfork/releases/download/build-35708/Shadow.ipa",
   "stable": {
-    "build": 35706,
-    "version": "13.0.0-1.13.10",
-    "title": "Shadow 1.13.10: кружки больше не замораживают приложение",
-    "notes": "• Исправлено: отмена или отправка кружка больше не замораживает приложение",
-    "url": "https://github.com/folzy1092/tgfork/releases/tag/build-35706",
-    "ipa_url": "https://github.com/folzy1092/tgfork/releases/download/build-35706/Shadow.ipa"
+    "build": 35708,
+    "version": "13.0.0-1.13.11",
+    "title": "Shadow 1.13.11: время прочтения голосовых",
+    "notes": "• Исправлено: в личных чатах в меню своего голосового или кружка видно, когда его прочитали, даже если ещё не прослушали",
+    "url": "https://github.com/folzy1092/tgfork/releases/tag/build-35708",
+    "ipa_url": "https://github.com/folzy1092/tgfork/releases/download/build-35708/Shadow.ipa"
   }
 }
