@@ -1,18 +1,18 @@
 {
   "enabled": true,
-  "build": 35712,
-  "version": "13.0.0-1.14.0",
-  "title": "Shadow 1.14.0: свои приколы скрепки",
-  "notes": "• Свои приколы: добавь ссылку на пост публичного канала, и он появится в меню скрепки (Кастомизация → Чаты и звонки → Действия скрепки)\n• Прикол можно отправить ответом: выбери ответ на сообщение и зажми скрепку\n• После «записывает…» собеседник видит «отправляет…», длительность настраивается (Кастомизация → Чаты и звонки → Секунд отправки)",
-  "url": "https://github.com/folzy1092/tgfork/releases/tag/build-35712",
+  "build": 36044,
+  "version": "13.1-1.14.0",
+  "title": "Shadow 13.1-1.14.0",
+  "notes": "• Shadow теперь на Telegram 13.1: новый экран «Поделиться», QR-студия, обновлённый кошелёк, новые стеклянные панели навигации и вкладка «Новости» (появляется, когда её включит Telegram)",
+  "url": "https://github.com/folzy1092/tgfork/releases/tag/build-36044",
   "minimum_build": 0,
-  "ipa_url": "https://github.com/folzy1092/tgfork/releases/download/build-35712/Shadow.ipa",
+  "ipa_url": "https://github.com/folzy1092/tgfork/releases/download/build-36044/Shadow.ipa",
   "stable": {
-    "build": 35712,
-    "version": "13.0.0-1.14.0",
-    "title": "Shadow 1.14.0: свои приколы скрепки",
-    "notes": "• Свои приколы: добавь ссылку на пост публичного канала, и он появится в меню скрепки (Кастомизация → Чаты и звонки → Действия скрепки)\n• Прикол можно отправить ответом: выбери ответ на сообщение и зажми скрепку\n• После «записывает…» собеседник видит «отправляет…», длительность настраивается (Кастомизация → Чаты и звонки → Секунд отправки)",
-    "url": "https://github.com/folzy1092/tgfork/releases/tag/build-35712",
-    "ipa_url": "https://github.com/folzy1092/tgfork/releases/download/build-35712/Shadow.ipa"
+    "build": 36044,
+    "version": "13.1-1.14.0",
+    "title": "Shadow 13.1-1.14.0",
+    "notes": "• Shadow теперь на Telegram 13.1: новый экран «Поделиться», QR-студия, обновлённый кошелёк, новые стеклянные панели навигации и вкладка «Новости» (появляется, когда её включит Telegram)",
+    "url": "https://github.com/folzy1092/tgfork/releases/tag/build-36044",
+    "ipa_url": "https://github.com/folzy1092/tgfork/releases/download/build-36044/Shadow.ipa"
   }
 }
