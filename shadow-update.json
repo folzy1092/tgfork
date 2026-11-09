@@ -16,11 +16,11 @@
     "ipa_url": "https://github.com/folzy1092/tgfork/releases/download/build-36106/Shadow.ipa"
   },
   "beta": {
-    "build": 36110,
-    "version": "13.1.2-2.2.6",
-    "title": "Shadow 2.2.6: ответ на удалённые сообщения",
-    "notes": "• На удалённое сообщение теперь можно ответить кнопкой «Ответить» или свайпом: в поле ввода появляется имя автора со ссылкой на его профиль и цитата текста (Сохранение)",
-    "url": "https://github.com/folzy1092/tgfork/releases/tag/build-36110",
-    "ipa_url": "https://github.com/folzy1092/tgfork/releases/download/build-36110/Shadow.ipa"
+    "build": 37017,
+    "version": "13.2-2.3.0",
+    "title": "Shadow 2.3.0: основа Telegram 13.2",
+    "notes": "• Основа обновлена до Telegram 13.2: виджеты в сообщениях, улучшения звонков, новая нижняя панель в стиле iOS 27\n• На удалённое сообщение теперь можно ответить кнопкой «Ответить» или свайпом: в поле ввода появляется имя автора со ссылкой на его профиль и цитата текста (Сохранение)\n• Исправлено: строка «удалено …» в меню удалённого сообщения теперь показывает время целиком",
+    "url": "https://github.com/folzy1092/tgfork/releases/tag/build-37017",
+    "ipa_url": "https://github.com/folzy1092/tgfork/releases/download/build-37017/Shadow.ipa"
   }
 }
